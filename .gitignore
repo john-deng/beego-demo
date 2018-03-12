@@ -18,3 +18,4 @@ vendor/
 commentsRouter*
 *.tmp
 beego-demo
+beego-demo.iml
