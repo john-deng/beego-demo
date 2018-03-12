@@ -19,7 +19,6 @@ type DataSource struct {
 	password string
 }
 
-
 func init() {
 	dataSource := DataSource{
 		"default",
